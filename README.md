@@ -1,6 +1,6 @@
 # creative-qa-test
-
-Два одинаковых теста, один с использованием Page Object, другой без.
+стэк Gradle + JUnit5 + Selenide + Allure. <br>
+Два одинаковых теста,  один с использованием Page Object, другой без. 
 
 ### Запуск тестов
 ```bash
